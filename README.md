@@ -18,11 +18,7 @@ Hi! I'm Vee. I currently manage and run Falt. I like to play (mostly) racing gam
 <img alt="Instagram" src="https://img.shields.io/badge/@joost_van_der_doos%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> <img alt="Twitter" src="https://img.shields.io/badge/@VeeTheTV%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img alt="Discord" src="https://img.shields.io/badge/invite.falt.ml%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <img alt="Discord" src="https://img.shields.io/badge/discord.gg/dankers%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <img alt="Reddit" src="https://img.shields.io/badge/u/KarVeeJar-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 
 ### On my devices
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft%20-%23F5F5F5.svg?&style=for-the-badge&logo=Ubisoft&logoColor=black"/>
+<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft%20-%23F5F5F5.svg?&style=for-the-badge&logo=Ubisoft&logoColor=black"/>
 
 ### I love 💕
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
