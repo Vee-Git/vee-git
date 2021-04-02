@@ -1,4 +1,7 @@
 ## I'm Vee
+
+<div align="center">
+
 Hi! I'm Vee. I currently manage and run Falt. I like to play (mostly) racing games like Assetto Corsa. I also like coding and know Python, HTML/CSS and a bit of JavaScript.
 ### Stats
 [![Vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee-git&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,8 +28,6 @@ Hi! I'm Vee. I currently manage and run Falt. I like to play (mostly) racing gam
 
 ## Listening on Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=18s4bz9f7vrjj7q68ks2oaqg0&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=18s4bz9f7vrjj7q68ks2oaqg0&redirect=true)
-
-<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=vee-git&&style=flat-square" align="center" />
 
