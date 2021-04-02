@@ -37,3 +37,9 @@ Hi! I'm Vee. I currently manage and run Falt. I like to play (mostly) racing gam
 
 ## Listening on Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=18s4bz9f7vrjj7q68ks2oaqg0&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=18s4bz9f7vrjj7q68ks2oaqg0&redirect=true)
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vee-git&&style=flat-square" align="center" />
+
+</div>  
