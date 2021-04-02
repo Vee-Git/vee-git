@@ -1,5 +1,11 @@
 ## I'm Vee
 
+<div align="right"> 
+
+###### *Falt » Fearless connections*
+
+</div>
+
 Hi! I'm Vee. I currently manage and run Falt. I like to play (mostly) racing games like Assetto Corsa. I also like coding and know Python, HTML/CSS and a bit of JavaScript.
 #### 📈 Stats  
 
