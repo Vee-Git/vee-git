@@ -34,3 +34,6 @@ Hi! I'm Vee. I currently manage and run Falt. I like to play (mostly) racing gam
 
 ### I love 💕
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+
+## Listening on Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=18s4bz9f7vrjj7q68ks2oaqg0&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=18s4bz9f7vrjj7q68ks2oaqg0&redirect=true)
