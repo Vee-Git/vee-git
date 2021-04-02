@@ -14,5 +14,5 @@ Hi! I'm Vee. I currently manage and run Falt. I like to play (mostly) racing gam
 #### 💬 Discord
 <img alt="Discord" src="https://img.shields.io/badge/invite.falt.ml%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <img alt="Discord" src="https://img.shields.io/badge/discord.gg/dankers%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> <br>
 
-### 👀 Views
+#### 👀 Views
 ![](https://gitwar.herokuapp.com/badge?username=vee-git&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
