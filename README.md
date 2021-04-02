@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/Vee-Git?template=classic&languages=1&pagespeed=1&languages.colors=github&languages.threshold=0%25&pagespeed.url=https%3A%2F%2Fsite.falt.ml&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Europe%2FAmsterdam&config.animated=true)
+[![Vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee-git&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
