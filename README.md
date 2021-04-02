@@ -7,6 +7,7 @@ Hi! I'm Vee. I currently manage and run Falt. I like to play (mostly) racing gam
 [![Vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee-git&count_private=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 ### Code languages I use/know
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <br>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <br>
