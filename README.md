@@ -5,7 +5,7 @@
 Hi! I'm Vee. I currently manage and run Falt. I like to play (mostly) racing games like Assetto Corsa. I also like coding and know Python, HTML/CSS and a bit of JavaScript.
 #### 📈 Stats  
 
-[![Vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee-git&count_private=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee-git&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 💕 I love 
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> 
