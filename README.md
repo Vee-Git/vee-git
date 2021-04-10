@@ -12,5 +12,4 @@ Hi! I'm Vee. I currently manage and run Falt and Dankers Continental. I like to 
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/> 
 
 #### 💬 Discord
-<img alt="Discord" src="https://img.shields.io/badge/invite.falt.ml%20-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white"/> <img alt="Discord" src="https://img.shields.io/badge/discord.gg/dankers%20-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white"/> <br>
-
+<img alt="Discord" src="https://img.shields.io/badge/invite.falt.ml%20-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white"/> <img alt="Discord" src="https://img.shields.io/badge/discord.gg/dankers%20-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white
