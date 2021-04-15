@@ -7,7 +7,7 @@ Hi! I'm Vee. I currently manage and run Falt and Dankers Continental. I like to 
 #### 📈 Stats  
 
 [![Vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee-git&count_private=true&theme=dark&bg_color=20,ff00c4,933fde,5e2ee8,0019db)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vee-git&count_private=true&layout=compact&theme=dark&bg_color=20,ff00c4,933fde,5e2ee8,0019db)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vee-git&layout=compact&theme=dark&bg_color=20,ff00c4,933fde,5e2ee8,0019db)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### 💕 I love 
