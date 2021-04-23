@@ -4,8 +4,13 @@
 
 Hi! I'm Vee. I currently manage and run Falt and Dankers Continental. I like to play (mostly) racing games like Assetto Corsa. I also like coding and know Python, HTML/CSS and a bit of JavaScript.
 
-
-
+#### ⚡ Current Projects
+##### Falt Development
+- Discord Bot
+- 
+##### Dankers Continental
+- Management 
+- Server Growth
 #### 💕 I love 
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> 
 
