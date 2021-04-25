@@ -15,4 +15,4 @@
 
 ### 📈 Stats  
 
-[![Vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee-git&count_private=true&theme=slateorange&bg_color=20,ff00c4,933fde,5e2ee8,0019db)](https://github.com/anuraghazra/github-readme-stats)
+[![Vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee-git&count_private=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
