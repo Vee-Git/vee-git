@@ -9,7 +9,7 @@
 - 🤖 Working on a Discord bot
 
 ### 📞 Contact Me
-- 💭 [Discord](https://discord.gg/ehMvhM7) » Vee
+- 💭 [Discord](https://discord.gg/ehMvhM7) » !ٴᴠᴇᴇ⁶⁹#5656
 - 📩 [Email]() » <vee@falt.ml>
 
 ### 📈 Stats  
