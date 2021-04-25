@@ -3,14 +3,14 @@
 ## Hi! I'm Vee
 
 ### ⚡ Currently 
-- Doing research on Discord Servers
-- Learning more Python
-- Managing [Falt](https://discord.gg/ehMvhM7) and [Dankers Continental](https://discord.gg/dankers)
-- Working on a Discord bot
+- 🔎 Doing research on Discord Servers
+- 👨‍💻 Learning more Python
+- 🧰 Managing [Falt](https://discord.gg/ehMvhM7) and [Dankers Continental](https://discord.gg/dankers)
+- 🤖 Working on a Discord bot
 
 ### 📞 Contact Me
-- [Discord](https://discord.gg/ehMvhM7) » Vee
-- [Email]() » <vee@falt.ml>
+- 💭 [Discord](https://discord.gg/ehMvhM7) » Vee
+- 📩 [Email]() » <vee@falt.ml>
 
 ### 📈 Stats  
 
