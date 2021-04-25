@@ -5,7 +5,7 @@
 ### ⚡ Currently 
 - 🔎 Doing research on Discord Servers
 - 👨‍💻 Learning more Python
-- 🧰 Managing [Falt](https://discord.gg/ehMvhM7) and [Dankers Continental](https://discord.gg/dankers)
+- 🧰 Managing [Falt](https://discord.gg/ehMvhM7) and [DC](https://discord.gg/dankers)
 - 🤖 Working on a Discord bot
 
 ### 📞 Contact Me
