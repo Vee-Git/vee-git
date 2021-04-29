@@ -5,13 +5,18 @@
 
 ### ⚡ Currently 
 - 🔎 Doing research on Discord Servers
-- 👨‍💻 Learning more Python
+- 🖥️ Learning how to make an API
 - 🧰 Managing [Falt](https://discord.gg/ehMvhM7) and [DC](https://discord.gg/dankers)
 - 🤖 Working on a Discord bot
 
+### ⚒️ Skills
+- 👨‍💼 Management   - Managing staff and workflows
+- 📈 Marketing    - Research, relationships and product promotion
+- 🤖 Discord bots - Coding Discord bots in discord.py
+
 ### 📞 Contact Me
-- 💭 [Discord](https://discord.gg/ehMvhM7) » !ٴᴠᴇᴇ⁶⁹#5656
-- 📩 [Email]() » <vee@falt.ml>
+- 💭 Discord - [!ٴᴠᴇᴇ⁶⁹#5656](https://discord.gg/ehMvhM7)
+- 📩 Email   - vee@falt.ml
 
 ### 📈 Stats  
 
