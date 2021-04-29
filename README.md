@@ -14,6 +14,4 @@
 - 📩 Email   - vee@falt.ml
 
 ### 📈 Stats  
-![Discord](https://img.shields.io/discord/617433050246021120?style=for-the-badge&color=black&label=Falt&logo=discord) ![Profile views](https://gpvc.arturio.dev/vee-git)
-[![Sparkline](https://stars.medv.io/vee-git/badges.svg)](https://stars.medv.io/Naereen/badges)
 [![Vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vee-git&count_private=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
