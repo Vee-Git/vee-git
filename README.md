@@ -7,12 +7,7 @@
 - 🔎 Doing research on Discord Servers
 - 🖥️ Learning how to make an API
 - 🧰 Managing [Falt](https://discord.gg/ehMvhM7) and [DC](https://discord.gg/dankers)
-- 🤖 Working on a Discord bot
-
-### ⚒️ Skills
-- 👨‍💼 Management   - Managing staff and workflows
-- 📈 Marketing    - Research, relationships and product promotion
-- 🤖 Discord bots - Coding Discord bots in discord.py
+- 🤖 Creating Discord bots
 
 ### 📞 Contact Me
 - 💭 Discord - [!ٴᴠᴇᴇ⁶⁹#5656](https://discord.gg/ehMvhM7)
