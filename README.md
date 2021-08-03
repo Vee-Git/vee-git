@@ -8,7 +8,7 @@
 - 🤖 Creating Discord bots
 
 ### 📞 Contact Me
-- 💭 Discord - [!ٴᴠᴇᴇ⁶⁹#5656](https://discord.gg/ehMvhM7) 
+- 💭 Discord - [!ٴᴠᴇᴇ⁶⁹#5656](https://discord.com/users/427476505455624193) 
 - 📩 Email   - vee@falt.ml
 
 ### 📈 Stats  
