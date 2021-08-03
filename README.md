@@ -4,8 +4,6 @@
 ## Hi! I'm Vee
 
 ### ⚡ Currently 
-- 🔎 Doing research on Discord Servers
-- 🖥️ Learning how to make an API
 - 🧰 Managing [Falt](https://discord.gg/ehMvhM7) and [DC](https://discord.gg/dankers)
 - 🤖 Creating Discord bots
 
