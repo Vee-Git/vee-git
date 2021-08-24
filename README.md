@@ -4,7 +4,7 @@
 ## Hi! I'm Vee
 
 ### ⚡ Currently 
-- 🧰 Managing [Falt](https://discord.gg/ehMvhM7) and [DC](https://discord.gg/dankers)
+- 🧰 Managing [DC](https://discord.gg/dankers)
 - 🤖 Creating Discord bots
 
 ### 📞 Contact Me
