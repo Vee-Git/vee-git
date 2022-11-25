@@ -4,7 +4,6 @@
 
 ### Currently
 - Studying IT
-- Learning Java
 - Creating a solution for one of the SDG
 
 ### Playing on [Spotify](https://open.spotify.com/user/18s4bz9f7vrjj7q68ks2oaqg0?si=dd2e6514c1c94054)
