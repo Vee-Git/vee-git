@@ -7,7 +7,7 @@
 ### 🛠️ Tools
  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   
-### 🎵 Playing on [Spotify](https://open.spotify.com/user/18s4bz9f7vrjj7q68ks2oaqg0?si=dd2e6514c1c94054)
+### 🎵 Playing on [Spotify](https://www.last.fm/user/VeeTheTV)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=18s4bz9f7vrjj7q68ks2oaqg0&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=18s4bz9f7vrjj7q68ks2oaqg0&redirect=true)
 
 ### 🍻 Contact me
