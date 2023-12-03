@@ -2,7 +2,7 @@
 ## Hi! I'm [Vee](https://discord.com/users/427476505455624193) :wave: 
   
 ### ⚡ Currently
-- Studying how to design and configuring Cisco networks
+- Studying how to design and configure Cisco networks
 - Learning about industrial communication
 
 ### 🍻 Contact me
